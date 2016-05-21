@@ -1,0 +1,34 @@
+{
+  "name": "vk-node-tools",
+  "version": "1.0.0",
+  "description": "Утилиты для vk.com",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridiks10/vk-node-tools.git"
+  },
+  "keywords": [
+    "tools",
+    "vk.com",
+  ],
+  "author": "Andrey Panasyk",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "email": "ridiks100@gmail.com",
+      "name": "Andrey"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/ridiks10/vk-node-tools/issues"
+  },
+  "homepage": "https://github.com/ridiks10/vk-node-tools#readme",
+  "dependencies": {
+    "antigate": "0.0.1",
+    "node-vkapi": "^2.0.2",
+    "optimist": "^0.6.1",
+    "progress": "^1.1.8",
+    "vk-dirty-api": "^3.0.1",
+    "vksdk": "^5.3.1"
+  }
+}
